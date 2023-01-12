@@ -13,6 +13,7 @@
             android:hint="test@naver.com">
 
 
+
         </EditText>
     </LinearLayout>
 
