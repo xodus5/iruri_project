@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604323158966",
+    "project_id": "iruritest-a3076",
+    "storage_bucket": "iruritest-a3076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604323158966:android:70cf995316fb9c1d3c7f17",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.xodus0830.iruri_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604323158966-8vubtvemq21cnc0n8bq4kavc7mcn0l40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.xodus0830.iruri_project",
+            "certificate_hash": "f8ce880cea89545e54a0337ae069959f50f8df97"
+          }
+        },
+        {
+          "client_id": "604323158966-54njpuamslh9an09o3740p7da49heh4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KLsWSR1RTc9q-UNKAM_Lraf1ui0_4AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604323158966-54njpuamslh9an09o3740p7da49heh4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
